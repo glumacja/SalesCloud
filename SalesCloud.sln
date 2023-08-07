@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesCloud.Api", "SalesClou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesCloud.Domain", "SalesCloud.Domain\SalesCloud.Domain.csproj", "{188477E3-B4EC-47BC-9673-D8EAB7456312}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesCloud.Common", "SalesCloud.DataModels\SalesCloud.Common.csproj", "{9FE5261F-353D-46D0-B0A4-85C6BF6B60B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesCloud.Common", "SalesCloud.Common\SalesCloud.Common.csproj", "{9FE5261F-353D-46D0-B0A4-85C6BF6B60B6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesCloud.Logic", "SalesCloud.Logic\SalesCloud.Logic.csproj", "{EA54AA8A-A230-4C90-B789-292A8ADAA232}"
 EndProject
